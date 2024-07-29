@@ -42,5 +42,5 @@ By utilizing the TMDb API, one can recommend TV shows, movies, and other enterta
     ```bash
     git clone https://github.com/yourusername/TMDb-API-CodingNinjas.git
     ```
-2. Set up your TMDb API key in the scripts where needed ad start coding...
+2. Set up your TMDb API key in the scripts where needed and start coding...
 
